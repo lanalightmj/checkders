@@ -1,0 +1,422 @@
+.wrapper {
+	height: 100vh;
+	width: 100vh;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	background-color: #DEB887;
+}
+
+.square {
+	width: 11%;
+	height: 11%;
+}
+
+.white {
+	background-color: #F5DEB3;
+	position: absolute;
+}
+
+.black {
+	background-color: #8B4513;
+	position: absolute;
+}
+.first {
+	position: absolute;
+	top: 6%;
+}
+
+
+.row-first div:nth-child(8) {
+	top: 6%;
+	right: 6%;
+	position: absolute;
+}
+
+.row-first div:nth-child(7) {
+	top: 6%;
+	right: 17%;
+	position: absolute;
+}
+
+.row-first div:nth-child(6) {
+	top: 6%;
+	right: 28%;
+	position: absolute;
+}
+
+.row-first div:nth-child(5) {
+	top: 6%;
+	right: 39%;
+	position: absolute;
+}
+
+.row-first div:nth-child(4) {
+	top: 6%;
+	right: 50%;
+	position: absolute;
+}
+
+.row-first div:nth-child(3) {
+	top: 6%;
+	right: 61%;
+	position: absolute;
+}
+
+.row-first div:nth-child(2) {
+	top: 6%;
+	right: 72%;
+	position: absolute;
+}
+
+.row-first div:nth-child(1) {
+	top: 6%;
+	right: 83%;
+	position: absolute;
+}
+
+
+.row-second div:nth-child(8) {
+	top: 17%; 
+	right: 6%;
+	position: absolute;
+}
+
+.row-second div:nth-child(7) {
+	top: 17%; 
+	right: 17%;
+	position: absolute;
+}
+
+.row-second div:nth-child(6) {
+	top: 17%; 
+	right: 28%;
+	position: absolute;
+}
+
+.row-second div:nth-child(5) {
+	top: 17%; 
+	right: 39%;
+	position: absolute;
+}
+
+.row-second div:nth-child(4) {
+	top: 17%; 
+	right: 50%;
+	position: absolute;
+}
+
+.row-second div:nth-child(3) {
+	top: 17%; 
+	right: 61%;
+	position: absolute;
+}
+
+.row-second div:nth-child(2) {
+	top: 17%; 
+	right: 72%;
+	position: absolute;
+}
+
+.row-second div:nth-child(1) {
+	top: 17%; 
+	right: 83%;
+	position: absolute;
+}
+
+
+.row-third div:nth-child(8) {
+	top: 28%; 
+	right: 6%;
+	position: absolute;
+}
+
+.row-third div:nth-child(7) {
+	top: 28%; 
+	right: 17%;
+	position: absolute;
+}
+
+.row-third div:nth-child(6) {
+	top: 28%; 
+	right: 28%;
+	position: absolute;
+}
+
+.row-third div:nth-child(5) {
+	top: 28%; 
+	right: 39%;
+	position: absolute;
+}
+
+.row-third div:nth-child(4) {
+	top: 28%; 
+	right: 50%;
+	position: absolute;
+}
+
+.row-third div:nth-child(3) {
+	top: 28%; 
+	right: 61%;
+	position: absolute;
+}
+
+.row-third div:nth-child(2) {
+	top: 28%; 
+	right: 72%;
+	position: absolute;
+}
+
+.row-third div:nth-child(1) {
+	top: 28%; 
+	right: 83%;
+	position: absolute;
+}
+
+
+.row-fourth div:nth-child(8) {
+	top: 39%; 
+	right: 6%;
+	position: absolute;
+}
+
+.row-fourth div:nth-child(7) {
+	top: 39%; 
+	right: 17%;
+	position: absolute;
+}
+
+.row-fourth div:nth-child(6) {
+	top: 39%; 
+	right: 28%;
+	position: absolute;
+}
+
+.row-fourth div:nth-child(5) {
+	top: 39%; 
+	right: 39%;
+	position: absolute;
+}
+
+.row-fourth div:nth-child(4) {
+	top: 39%; 
+	right: 50%;
+	position: absolute;
+}
+
+.row-fourth div:nth-child(3) {
+	top: 39%; 
+	right: 61%;
+	position: absolute;
+}
+
+.row-fourth div:nth-child(2) {
+	top: 39%; 
+	right: 72%;
+	position: absolute;
+}
+
+.row-fourth div:nth-child(1) {
+	top: 39%; 
+	right: 83%;
+	position: absolute;
+}
+
+
+.row-fifth div:nth-child(8) {
+	top: 50%; 
+	right: 6%;
+	position: absolute;
+}
+
+.row-fifth div:nth-child(7) {
+	top: 50%; 
+	right: 17%;
+	position: absolute;
+}
+
+.row-fifth div:nth-child(6) {
+	top: 50%; 
+	right: 28%;
+	position: absolute;
+}
+
+.row-fifth div:nth-child(5) {
+	top: 50%; 
+	right: 39%;
+	position: absolute;
+}
+
+.row-fifth div:nth-child(4) {
+	top: 50%; 
+	right: 50%;
+	position: absolute;
+}
+
+.row-fifth div:nth-child(3) {
+	top: 50%; 
+	right: 61%;
+	position: absolute;
+}
+
+.row-fifth div:nth-child(2) {
+	top: 50%; 
+	right: 72%;
+	position: absolute;
+}
+
+.row-fifth div:nth-child(1) {
+	top: 50%; 
+	right: 83%;
+	position: absolute;
+}
+
+
+.row-sixth div:nth-child(8) {
+	top: 61%; 
+	right: 6%;
+	position: absolute;
+}
+
+.row-sixth div:nth-child(7) {
+	top: 61%; 
+	right: 17%;
+	position: absolute;
+}
+
+.row-sixth div:nth-child(6) {
+	top: 61%; 
+	right: 28%;
+	position: absolute;
+}
+
+.row-sixth div:nth-child(5) {
+	top: 61%; 
+	right: 39%;
+	position: absolute;
+}
+
+.row-sixth div:nth-child(4) {
+	top: 61%; 
+	right: 50%;
+	position: absolute;
+}
+
+.row-sixth div:nth-child(3) {
+	top: 61%; 
+	right: 61%;
+	position: absolute;
+}
+
+.row-sixth div:nth-child(2) {
+	top: 61%; 
+	right: 72%;
+	position: absolute;
+}
+
+.row-sixth div:nth-child(1) {
+	top: 61%; 
+	right: 83%;
+	position: absolute;
+}
+
+
+.row-seventh div:nth-child(8) {
+	top: 72%; 
+	right: 6%;
+	position: absolute;
+}
+
+.row-seventh div:nth-child(7) {
+	top: 72%; 
+	right: 17%;
+	position: absolute;
+}
+
+.row-seventh div:nth-child(6) {
+	top: 72%; 
+	right: 28%;
+	position: absolute;
+}
+
+.row-seventh div:nth-child(5) {
+	top: 72%; 
+	right: 39%;
+	position: absolute;
+}
+
+.row-seventh div:nth-child(4) {
+	top: 72%; 
+	right: 50%;
+	position: absolute;
+}
+
+.row-seventh div:nth-child(3) {
+	top: 72%; 
+	right: 61%;
+	position: absolute;
+}
+
+.row-seventh div:nth-child(2) {
+	top: 72%; 
+	right: 72%;
+	position: absolute;
+}
+
+.row-seventh div:nth-child(1) {
+	top: 72%; 
+	right: 83%;
+	position: absolute;
+}
+
+
+.row-eighth div:nth-child(8) {
+	top: 83%; 
+	right: 6%;
+	position: absolute;
+}
+
+.row-eighth div:nth-child(7) {
+	top: 83%; 
+	right: 17%;
+	position: absolute;
+}
+
+.row-eighth div:nth-child(6) {
+	top: 83%; 
+	right: 28%;
+	position: absolute;
+}
+
+.row-eighth div:nth-child(5) {
+	top: 83%; 
+	right: 39%;
+	position: absolute;
+}
+
+.row-eighth div:nth-child(4) {
+	top: 83%; 
+	right: 50%;
+	position: absolute;
+}
+
+.row-eighth div:nth-child(3) {
+	top: 83%; 
+	right: 61%;
+	position: absolute;
+}
+
+.row-eighth div:nth-child(2) {
+	top: 83%; 
+	right: 72%;
+	position: absolute;
+}
+
+.row-eighth div:nth-child(1) {
+	top: 83%; 
+	right: 83%;
+	position: absolute;
+}
+
+
